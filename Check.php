@@ -1,7 +1,7 @@
 <?php
 
 /**
- * doc
+ * doc is added to help
  */
 
 function FunctionName()
